@@ -1,0 +1,17 @@
+{
+  "site": {
+    "title": "Web Replay Gen Example"
+  },
+  "archives": [
+    {
+      "name": "Example",
+      "url": "https://replayweb.page/docs/assets/example.wacz",
+      "description": "ReplayWeb.Page web archive example"
+    },
+    {
+      "name": "Twitter",
+      "url": "s3://webrecorder-builds/warcs/netpreserve-twitter.warc",
+      "description": "Netpreserve Twitter web archive example"
+    }
+  ]
+}
