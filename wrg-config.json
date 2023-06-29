@@ -1,17 +1,12 @@
 {
   "site": {
-    "title": "Web Replay Gen Example"
+    "title": "ACH 2023 Web Replay Gen Static Site Example"
   },
   "archives": [
     {
-      "name": "Example",
-      "url": "https://replayweb.page/docs/assets/example.wacz",
-      "description": "ReplayWeb.Page web archive example"
+      "name": "Learning with Tsítha",
+      "url": "https://drive.google.com/us?id=19DwgaVOAyIjTd5Q84DAbtONGGbPZ149M",
+      "description": "Archive of tsitha.ca for ACH 2023 demo"
     },
-    {
-      "name": "Twitter",
-      "url": "s3://webrecorder-builds/warcs/netpreserve-twitter.warc",
-      "description": "Netpreserve Twitter web archive example"
-    }
   ]
 }
