@@ -8,5 +8,6 @@
       "url": "https://wr-public.ams3.digitaloceanspaces.com/tsitha-ca.wacz",
       "description": "Archive of tsitha.ca for ACH 2023 demo"
     }
-  ]
+  ],
+  "replayBaseUrl": "../dist/replay/"
 }
